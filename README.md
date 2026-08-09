@@ -80,4 +80,8 @@ Pet training platform combining personalized programs, consultation flows, and p
 - **Portfolio:** [adityajanjanam.com](https://adityajanjanam.com)
 - **Linktree:** [linktr.ee/adityajanjanam](https://linktr.ee/adityajanjanam)
 
-If you want, I can make this even more premium by turning the work section into a tighter two-column showcase or adding subtle visual separators and metrics.
+---
+
+<div align="center">
+  <sub>Built with care by Aditya Janjanam · Toronto, Ontario, Canada · Open to opportunities</sub>
+</div>
