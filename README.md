@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aditya%20Janjanam&fontSize=48&fontAlignY=38&desc=Full%20Stack%20+%20Mobile%20Developer%20%7C%20Application%20Packager&color=0:ff7aa2,30:7c3aed,70:06b6d4,100:22c55e&fontColor=ffffff" alt="Aditya Janjanam" style="max-width:100%;height:auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Aditya%20Janjanam&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Application%20Packager&descAlignY=64&color=0:0f172a,35:111827,65:0ea5e9,100:22c55e&fontColor=ffffff" alt="Aditya Janjanam" style="max-width:100%;height:auto;" />
 
-  <h1>Aditya Janjanam</h1>
-
-  <p><strong>Full Stack Developer · Mobile App Developer · Application Packager</strong></p>
-
-  <p>Building practical software with clean architecture, polished UX, and reliable delivery.</p>
+  <p><strong>Building practical software with clean architecture, polished UX, and reliable delivery.</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Toronto-ON%2C%20Canada-0f172a?style=flat-square" alt="Toronto, Ontario, Canada" />
@@ -14,48 +10,39 @@
   </p>
 </div>
 
----
-
 ## About
 
-I design and deliver production-ready web and mobile products across the MERN ecosystem, React Native, and Flutter. I also work in enterprise application packaging and release workflows, with a focus on quality, clarity, and dependable execution.
+I design and deliver production-ready web and mobile products across the MERN ecosystem, React Native, and Flutter. I also work in enterprise application packaging and release workflows, with a focus on clarity, quality, and dependable execution.
 
-Key strengths: React.js, React Native, Flutter, Node.js, Express.js, MongoDB, Firebase, MSI/MSIX packaging, PowerShell, and end-to-end testing.
+## Highlights
 
----
+- Full stack delivery across React, Node.js, Express.js, MongoDB, and Firebase
+- Mobile experience with React Native and Flutter
+- Windows application packaging using MSI/MSIX, PowerShell, and Intune
+- Quality-focused release workflows with Postman, JWT, and test discipline
 
-## Modern Tech Snapshot
+## Modern Tech Stack
 
-- Frontend: React + Vite, TypeScript, Tailwind CSS
-- Mobile: React Native (TypeScript), Flutter
-- Backend: Node.js, Express (or NestJS), TypeScript
-- Data: MongoDB / PostgreSQL, Prisma (optional)
-- Tooling: ESLint, Prettier, Husky, lint-staged, Docker, GitHub Actions
+- **Frontend:** React.js, React + Vite, TypeScript, Tailwind CSS, HTML5, CSS3
+- **Mobile:** React Native, Flutter
+- **Backend:** Node.js, Express.js, REST APIs, TypeScript
+- **Data:** MongoDB, Firebase, PostgreSQL, Prisma
+- **Delivery:** ESLint, Prettier, Husky, lint-staged, Docker, GitHub Actions
 
----
-
-## Core Stack
-
-- **Frontend & Mobile:** React.js, React Native, Flutter, HTML5, CSS3
-- **Backend & Data:** Node.js, Express.js, MongoDB, Firebase, REST APIs
-- **Packaging & QA:** MSI/MSIX, PowerShell, Intune, Postman, JWT
-
----
-
-## Selected Projects
+## Selected Work
 
 ### [HealthTrackPro (Flutter)](https://github.com/adityajanjanam/HEALTH_TRACK_PRO)
-Full-stack healthcare management app for patient and vitals tracking with an offline-first architecture.
+Healthcare management app for patient and vitals tracking with an offline-first approach.
 
 **Stack:** Flutter, Node.js, Express.js, MongoDB, REST API, Hive
 
 ### [HealthTrackPro (React Native)](https://github.com/adityajanjanam/HealthTrackPro)
-Healthcare provider application focused on patient workflows, QR sync, and clinical data reliability.
+Provider-focused app built around patient workflows, QR sync, and clinical data reliability.
 
 **Stack:** React Native, Node.js, MongoDB, REST API
 
 ### [PatientDataAPI](https://github.com/adityajanjanam/PatientDataAPI)
-RESTful API for secure patient data operations with clear service documentation.
+Secure REST API for patient data operations with structured service documentation.
 
 **Stack:** Node.js, Express.js, MongoDB, Swagger
 
@@ -64,24 +51,18 @@ Pet training platform combining personalized programs, consultation flows, and p
 
 **Stack:** Node.js, MongoDB, HTML5, CSS3, JavaScript
 
----
+## Professional Focus
 
-## What I Do Well
-
-- Ship end-to-end features with product-quality polish
-- Design offline-first mobile flows and reliable sync
-- Package Windows apps (MSI/MSIX) and automate release flows
-- Add robust testing and CI for dependable releases
-
----
+- Delivering end-to-end features with a product-first mindset
+- Designing offline-first mobile experiences and reliable sync
+- Packaging Windows apps with repeatable release workflows
+- Building clean, maintainable systems that are easy to trust
 
 ## Experience
 
-- **Application Packager, Atos** — Source validation, packaging, testing, and SLA-driven delivery.
-- **Associate Software Engineer Intern, Tech Mahindra** — MERN development and responsive UI implementation.
-- **Software Engineer Intern, Capgemini** — React.js web application development.
-
----
+- **Application Packager, Atos** — Source validation, packaging, testing, and SLA-driven delivery
+- **Associate Software Engineer Intern, Tech Mahindra** — MERN development and responsive UI implementation
+- **Software Engineer Intern, Capgemini** — React.js web application development
 
 ## Education
 
@@ -89,9 +70,7 @@ Pet training platform combining personalized programs, consultation flows, and p
 - **Conestoga College** — Computer Applications Development, Distinction
 - **Sathyabama Institute of Science & Technology** — BE in Electronics and Communications Engineering
 
----
-
-## Quick Contact
+## Contact
 
 - **Email:** [janjanamaditya@gmail.com](mailto:janjanamaditya@gmail.com)
 - **LinkedIn:** [linkedin.com/in/janjanamaditya](https://www.linkedin.com/in/janjanamaditya)
@@ -99,6 +78,4 @@ Pet training platform combining personalized programs, consultation flows, and p
 - **Portfolio:** [adityajanjanam.com](https://adityajanjanam.com)
 - **Linktree:** [linktr.ee/adityajanjanam](https://linktr.ee/adityajanjanam)
 
----
-
-If you prefer, I can merge this into the repo, commit with `chore: merge README` and push to `main` — or I can open a pull request instead. Tell me which you'd like.
+If you want, I can also tighten this further into a more minimal executive-style README or make it more visually bold with a stronger brand layout.
