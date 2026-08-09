@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Aditya%20Janjanam&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Application%20Packager&descAlignY=64&color=0:0f172a,35:111827,65:0ea5e9,100:22c55e&fontColor=ffffff" alt="Aditya Janjanam" style="max-width:100%;height:auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Aditya%20Janjanam&fontSize=54&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Application%20Packager&descAlignY=66&color=0:0b1020,25:111827,60:0ea5e9,100:22c55e&fontColor=ffffff" alt="Aditya Janjanam" style="max-width:100%;height:auto;" />
 
-  <p><strong>Building practical software with clean architecture, polished UX, and reliable delivery.</strong></p>
+  <p><strong>Building polished software systems with product-grade UX, modern architecture, and reliable delivery.</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Toronto-ON%2C%20Canada-0f172a?style=flat-square" alt="Toronto, Ontario, Canada" />
@@ -10,24 +10,26 @@
   </p>
 </div>
 
-## About
+## Overview
 
 I design and deliver production-ready web and mobile products across the MERN ecosystem, React Native, and Flutter. I also work in enterprise application packaging and release workflows, with a focus on clarity, quality, and dependable execution.
 
-## Highlights
+## At a Glance
 
-- Full stack delivery across React, Node.js, Express.js, MongoDB, and Firebase
-- Mobile experience with React Native and Flutter
-- Windows application packaging using MSI/MSIX, PowerShell, and Intune
-- Quality-focused release workflows with Postman, JWT, and test discipline
+| Focus | Strength |
+| --- | --- |
+| Product delivery | End-to-end build quality, clear ownership, and dependable handoff |
+| Web and mobile | React, React Native, Flutter, and modern TypeScript workflows |
+| Packaging | MSI/MSIX, PowerShell, Intune, and repeatable release processes |
+| Quality | Postman, JWT, disciplined testing, and CI-friendly engineering |
 
-## Modern Tech Stack
+## Core Capabilities
 
-- **Frontend:** React.js, React + Vite, TypeScript, Tailwind CSS, HTML5, CSS3
-- **Mobile:** React Native, Flutter
-- **Backend:** Node.js, Express.js, REST APIs, TypeScript
-- **Data:** MongoDB, Firebase, PostgreSQL, Prisma
-- **Delivery:** ESLint, Prettier, Husky, lint-staged, Docker, GitHub Actions
+- Frontend: React.js, React + Vite, TypeScript, Tailwind CSS, HTML5, CSS3
+- Mobile: React Native, Flutter
+- Backend: Node.js, Express.js, REST APIs, TypeScript
+- Data: MongoDB, Firebase, PostgreSQL, Prisma
+- Delivery: ESLint, Prettier, Husky, lint-staged, Docker, GitHub Actions
 
 ## Selected Work
 
@@ -78,4 +80,4 @@ Pet training platform combining personalized programs, consultation flows, and p
 - **Portfolio:** [adityajanjanam.com](https://adityajanjanam.com)
 - **Linktree:** [linktr.ee/adityajanjanam](https://linktr.ee/adityajanjanam)
 
-If you want, I can also tighten this further into a more minimal executive-style README or make it more visually bold with a stronger brand layout.
+If you want, I can make this even more premium by turning the work section into a tighter two-column showcase or adding subtle visual separators and metrics.
